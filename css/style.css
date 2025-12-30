@@ -22,7 +22,7 @@ figure img {
     display: none;
 }
 .first {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/mainhomepicture.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./mainhomepicture.png");
     height: 30%;
     background-position: center;
     background-repeat: no-repeat;
@@ -424,6 +424,7 @@ hr {
 	
 	
 } /* closes 1200px+ */
+
 
 
 
